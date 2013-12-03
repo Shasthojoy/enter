@@ -4,7 +4,7 @@ enter
 Event trigger router, like hash route;
 
 
-sample
+## sample
 
 ```javascript
 var enterId = enter('click .onlog', global.onlog, view.render);
